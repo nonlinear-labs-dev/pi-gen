@@ -2,3 +2,4 @@ xserver-xorg xserver-xorg-video-fbdev xinit pciutils xinput xfonts-100dpi xfonts
 chromium-browser
 hostapd 
 libglibmm-2.4-1v5 mc
+sshpass
