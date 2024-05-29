@@ -5,4 +5,6 @@ libglibmm-2.4-1v5
 mc
 udhcpd
 xz-utils
-overlayroot
+libi2c-dev
+libi2c0
+i2c-tools
