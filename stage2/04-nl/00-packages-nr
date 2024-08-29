@@ -8,3 +8,5 @@ xz-utils
 libi2c-dev
 libi2c0
 i2c-tools
+flac
+libsoup2.4-1
